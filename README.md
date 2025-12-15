@@ -20,3 +20,12 @@ optimum çözümü bulmak.
 - Python
 - Jupyter Notebook
 - NumPy
+
+## Dosya İçeriği
+- senaryo4_genetik_optimizasyon.ipynb : Genetik algoritma ile optimizasyonun gerçekleştirildiği Jupyter Notebook dosyası
+
+## Sonuç
+Genetik algoritma, verilen kısıtlar altında gübre ve sulama miktarlarını
+optimum seviyede belirleyerek bitki verimini maksimize etmiştir.
+
+
