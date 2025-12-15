@@ -22,10 +22,11 @@ optimum çözümü bulmak.
 - NumPy
 
 ## Dosya İçeriği
-- senaryo4_genetik_optimizasyon.ipynb : Genetik algoritma ile optimizasyonun gerçekleştirildiği Jupyter Notebook dosyası
+senaryo4_genetik_optimizasyon.ipynb : Genetik algoritma ile
+optimizasyonun gerçekleştirildiği Jupyter Notebook dosyası
 
 ## Sonuç
-Genetik algoritma, verilen kısıtlar altında gübre ve sulama miktarlarını
+Genetik algoritma, verilen kısıtlar altında gübre ve sulama miktarlarını 
 optimum seviyede belirleyerek bitki verimini maksimize etmiştir.
 
 
